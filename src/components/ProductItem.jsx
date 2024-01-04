@@ -1,8 +1,8 @@
-import { Card, Button } from "react-bootstrap"
+import { Card, Button } from 'react-bootstrap'
 
 
 
-function ProductItem({ product}) {
+function ProductItem ({ product }) {
     return (
         <Card className="mt-5 card-bg">
             <Card.Body>

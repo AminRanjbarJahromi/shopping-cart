@@ -1,9 +1,9 @@
 
-import { Row, Col } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap'
 
-import ProductItem from '../components/productItem';
+import ProductItem from '../components/productItem'
 
-import{ productList } from '../data/items';
+import{ productList } from '../data/items'
 
 
 function Shop() {
